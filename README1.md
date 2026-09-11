@@ -1,4 +1,4 @@
-Coursera Certificate
+*Coursera Certificate*
 
 Name: Arpan Pal
 
